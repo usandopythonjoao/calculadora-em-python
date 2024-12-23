@@ -32,7 +32,7 @@ Este é um projeto de uma **calculadora simples** com interface gráfica desenvo
 
 ## Captura de Tela
 
-![Imagem da Calculadora](https://via.placeholder.com/500x300?text=Adicione+uma+captura+de+tela+aqui)
+![Imagem da Calculadora](https://github.com/usandopythonjoao/calculadora-em-python/blob/main/capa.png)
 
 > **Nota**: Atualize esta seção com uma captura de tela do seu projeto para torná-lo mais atrativo.
 
