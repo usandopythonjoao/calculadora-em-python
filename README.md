@@ -1,5 +1,3 @@
-
-```markdown
 # Calculadora com Interface Gráfica em Python
 
 Este é um projeto de uma **calculadora simples** com interface gráfica desenvolvida em **Tkinter**, a biblioteca padrão do Python para criação de GUIs. O objetivo é ajudar iniciantes em Python a praticar contribuições open source enquanto aprendem a criar aplicações desktop.
@@ -82,16 +80,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Você pode usá-lo l
 ---
 
 💡 **Gostou?** Dê uma estrela no repositório e ajude a divulgar o projeto para outros iniciantes em Python! 😊
-```
-
-### O que foi ajustado:
-1. **Markdown uniformizado**:
-   - Substituí textos soltos por formatações adequadas, como listas, citações (`>`), e realce de blocos de código.
-   - Links foram formatados corretamente.
-
-2. **Placeholder para captura de tela**:
-   - Incluí uma sugestão de imagem (usando um placeholder) e destaquei a necessidade de adicionar uma captura real.
-
-3. **Melhor organização**:
-   - Mantive um tom amigável e encorajador, com foco em iniciantes.
-   - Garanti uma ordem lógica nas seções, desde instalação até contribuição.
